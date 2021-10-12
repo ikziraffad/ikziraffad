@@ -9,6 +9,6 @@ Currently I'm still learning some programming language and working on some proje
 - 🖥 Check my organization experience and part time experience at my [linkedIn](https://www.linkedin.com/in/dafrily27/)
 
 ### Curriculum Vitae
-
+✨✨https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=sharing✨✨
 
 <img width="100%" src="./footer.png" />
