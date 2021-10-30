@@ -16,3 +16,4 @@ https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=shari
 <a href=""><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"></a>
 <a href=""><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"></a>
 
+<img width="100%" height="80%" src="./footer.png" />
