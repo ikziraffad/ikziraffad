@@ -10,7 +10,7 @@ Currently a 5th semester student in Bina Nusantara University majoring in Comput
 ### ✨✨Curriculum Vitae✨✨
 https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=sharing
 
-### ✔️✔️Programming Languanges that I Have Learned✔️✔️
+### Programming Languanges that I Have Learned
 ✔️ C
 
 ✔️ Python
