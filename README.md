@@ -11,9 +11,11 @@ Currently a 5th semester student in Bina Nusantara University majoring in Comput
 https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=sharing
 
 ### ✔️✔️Programming Languanges that I Have Learned✔️✔️
-
-<a href=""><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
-<a href=""><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"></a>
-<a href=""><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"></a>
+✔️ C
+✔️ Python
+✔️ JS, HTML, CSS
+✔️ SQL
+✔️ R
+✔️ Java
 
 <img width="100%" height="80%" src="./footer.png" />
