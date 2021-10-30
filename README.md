@@ -12,10 +12,15 @@ https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=shari
 
 ### ✔️✔️Programming Languanges that I Have Learned✔️✔️
 ✔️ C
+
 ✔️ Python
+
 ✔️ JS, HTML, CSS
+
 ✔️ SQL
+
 ✔️ R
+
 ✔️ Java
 
 <img width="100%" height="80%" src="./footer.png" />
