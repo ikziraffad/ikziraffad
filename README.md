@@ -8,7 +8,7 @@ Currently a 5th semester student in Bina Nusantara University majoring in Comput
 - 🖥 Check my organization experience and part time experience at my [linkedIn](https://www.linkedin.com/in/dafrily27/)
 
 ### ✨✨Curriculum Vitae✨✨
-https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=sharing
+https://drive.google.com/file/d/1jdRz0-Vt6XLhf3vmh6ySpZ1Czv3BapH9/view?usp=sharing
 
 ### Programming Languanges that I Have Learned
 ✔️ C
