@@ -19,8 +19,6 @@ https://drive.google.com/file/d/1jdRz0-Vt6XLhf3vmh6ySpZ1Czv3BapH9/view?usp=shari
 
 ✔️ SQL
 
-✔️ R
-
 ✔️ Java
 
 
