@@ -2,7 +2,7 @@
 
 # Greetings! I'm Daffa 👋 
 
-Currently a 5th semester student in Bina Nusantara University majoring in Computer Science , streaming in Intelligence System. Seeking for new and exciting knowledge!!
+Currently a Final year student in Bina Nusantara University majoring in Computer Science , streaming in Intelligence System. Seeking for new and exciting knowledge!!
 
 - 📫 Reach me by email: daffarizki909@gmail.com
 - 🖥 Check my organization experience and part time experience at my [linkedIn](https://www.linkedin.com/in/dafrily27/)
