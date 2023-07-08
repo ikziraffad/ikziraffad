@@ -1,4 +1,4 @@
-<img width="100%" height="80%" src="./header.png" />
+<img width="100%" height="80%" src="https://github.com/ikziraffad/ikziraffad/blob/main/header.png" />
 
 # Greetings! I'm Daffa 👋 
 
@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1jdRz0-Vt6XLhf3vmh6ySpZ1Czv3BapH9/view?usp=shari
 ✔️ Java
 
 
-<img width="100%" height="80%" src="./footer.png" />
+<img width="100%" height="80%" src="https://github.com/ikziraffad/ikziraffad/blob/main/footer.png" />
